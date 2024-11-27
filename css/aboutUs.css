@@ -1,0 +1,87 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: px;
+}
+
+
+.about-us {
+    background-color: #fff;
+    padding: 30px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.346);
+}
+
+.about-us h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+    border-bottom: 2px solid #007BFF;
+    display: inline;
+    padding-bottom: 5px;
+}
+
+.about-us p {
+    margin-bottom: 20px;
+}
+
+
+
+
+.social-media {
+    margin-top: 20px;
+    margin-left: -15px;
+
+}
+
+.social-media a {
+    margin: 0 10px;
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 24px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-media a:hover {
+    color: #0056b3;
+
+}
+
+.social-media img {
+    width: 28px;
+    height: 28px;
+}
+
+
+
+.developers {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.356);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.developers h4 {
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #333;
+    border-bottom: 2px solid #007BFF;
+    display: inline;
+    padding-bottom: 5px;
+}
+
+.developers img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.developers img:hover {
+    transform: scale(1.1);
+}
